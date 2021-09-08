@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"id": 1, "title": "Mwalimu", "author": "IMARY ATHUMANI"}, {"id": 2, "title": "ICT", "author": "JUMA HANGO"}]
